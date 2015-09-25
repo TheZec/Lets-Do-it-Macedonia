@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lets Do It Macedonia</string>
+
+    <string name="action_settings">Settings</string>
+        
+    <string name="text_tutorial_1">Want to help to make a cleaner Macedonia? It is Simple</string>
+        
+    <string name="text_tutorial_2">Photograph the location of waste </string>
+        
+    <string name="text_tutorial_3">Add the new location </string>
+        
+    <string name="text_tutorial_4">And that is it. The waste will be mapped, and you will help to build towards a cleaner country!</string>
+        
+    <string name="button_tutorial">Lets change Macedonia!</string>
+        
+    <string name="drawer_open">Open</string>
+        
+    <string name="drawer_close">Close</string>
+        
+    <string name="create_team">Create a team</string>
+        
+    <string name="news">News</string>
+        
+    <string name="about_us">About Us</string>
+        
+    <string name="contact">Contact</string>
+        
+    <string name="partners">Partners</string>
+        
+    <string name="title_activity_maps">Map</string>
+        
+    <string name="title_activity_about_info">About Us</string>
+        
+    <string name="about">About Us</string>
+
+    <string name="about_info">Lets Do It World! is a new, innovative, mass civil movement, started in 2008 when Estonia gathered 50,000 people who cleaned the country in just five hours. Now this movement has an international group working in 112 countries with over 13 million participants.
+
+    Macedonia first joined the global action Lets do it world on the 6th of October, 2012 by organizing 440 waste sites in 54 municipalities. Aided by over 55 000 people, they managed to clean 60 000 cubic meters of waste. The waste was taken to Drisla and municipal landfills, where 20 tons of PET bottles and over 10 tons of paper were recycled. The action involved 225 primary and 62 secondary schools, with educational lectures and workshops run by Junior Green Package collecting old paper and promoting clean events in the schools and surrounding areas.
+
+    With this years action, Macedonia is completing its first successful year in the Lets Do It World! movement.
+
+    National action was conducted in 2013 in 70 municipalities, and 19 685 m3 waste386 registered locations where gathered. Besides municipalities and their utility companies, the activities involved 70 schools with over 3,700 students, NGOs, companies, 4 diplomatic missions, with a grand total of 61,637 citizens.
+
+    The implementation of national action in 2014 demonstrated similar results as the previous year, implemented in 70 municipalities, with nearly 60 000 citizens cleaning 252 waste sites and gathering 25,330 cubic meters of waste.
+
+    Our goal is to clean all of Macedonia illegally discarded waste and to keep Macedonia clean. We hope to create and support sustainable principles for waste management in Macedonia.
+
+    Join us! Clean Up Macedonia together!</string>
+
+    <string name="cancel">Cancel</string>
+        
+    <string name="add_point">Add</string>
+
+    <string name="plastik_paper">Plastic, Paper</string>
+
+    <string name="title_activity_partners">Partners</string>
+
+    <string name="title_activity_news">News</string>
+
+    <string name="no_internet">No internet connection, please turn on your network</string>
+
+    <string name="successful_log_out">Logged out</string>
+
+    <string name="successful_log_in">Logged in</string>
+
+    <string name="error_try_again">Wrong username or password, please try again</string>
+
+    <string name="log_in_or_sign_in">Please sign in or create new user</string>
+
+    <string name="no_network">No internet connection, please turn on your network</string>
+
+    <string name="successful_new_point">You have added new point successfully</string>
+
+    <string name="check_gps_network">Location not mapped. Check your network and gps location</string>
+
+    <string name="field_required">This field is required</string>
+
+    <string name="pick_waste_type">Select type of waste</string>
+
+    <string name="share">Share</string>
+
+    <string name="do_you_want_to_share">Do you want to share your action?</string>
+
+    <string name="just_maped_try_out"><![CDATA[I have just added new waste point. You can do it too \n https://play.google.com/store/apps/details?id=com.letsdoitmacedonia&hl=en]]></string>
+
+    <string name="invalid_email">Invalid email address</string>
+
+    <string name="password_not_match">Passwords does not  match</string>
+
+    <string name="no_network_turn_on">No internet connection, please turn on your network</string>
+
+    <string name="successful_new_user">New user created. Please log in</string>
+
+    <string name="username_exist">Username already exists</string>
+
+    <string name="email_exist">Email already exists</string>
+
+    <string name="volume">Volume: </string>
+
+    <string name="content">Content: </string>
+
+    <string name="description">Description: </string>
+
+    <string name="added_by">Added by: </string>
+
+    <string name="minimum_password"> The password is too short</string>
+
+    <string name="activate_gps">For the purposes of this application, please turn on your gps</string>
+
+    <string name="no">No</string>
+
+    <string name="construction">Construction waste</string>
+
+    <string name="glass">Glass waste</string>
+
+    <string name="mixed">Mixed waste</string>
+
+    <string name="other">Other</string>
+
+    <string name="profile">Profile</string>
+
+    <string name="take_photo">Take photo</string>
+
+    <string name="new_location">New location</string>
+
+    <string name="yes">Yes</string>
+
+</resources>

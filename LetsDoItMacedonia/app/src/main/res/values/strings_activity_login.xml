@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+         <string name = "title_activity_login"> Sign in </string>
+
+
+         <string name = "prompt_username"> Username </string>
+         <string name = "prompt_password"> Password </string>
+         <string name = "action_sign_in"> Sign in or register </string>
+         <string name = "action_sign_in_short"> Login </string>
+         <string name = "action_register"> Create User </string>
+         <string name = "action_logout"> log out </string>
+
+         <string name = "error_invalid_email"> This e-mail address is not valid </string>
+         <string name = "error_invalid_password"> The password is too short </string>
+         <string name = "error_incorrect_password"> The password is incorrect </string>
+         <string name = "error_field_required"> This field is required </string>
+</resources>

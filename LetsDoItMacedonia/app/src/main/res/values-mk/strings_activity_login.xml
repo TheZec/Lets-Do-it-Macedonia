@@ -1,0 +1,16 @@
+<resources>
+    <string name="title_activity_login">Најави се</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Корисничко име</string>
+    <string name="prompt_password">Лозинка</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Најави се</string>
+    <string name="action_register">Креирај корисник</string>
+    <string name="action_logout">Одлогирај се</string>
+
+    <string name="error_invalid_email">Оваа Е-маил адреса не е валидна</string>
+    <string name="error_invalid_password">Лозинката е прекратка</string>
+    <string name="error_incorrect_password">Лозинката не е точна</string>
+    <string name="error_field_required">Ова поле е задолжително</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+             <string name = "title_activity_register"> Register</string>
+
+             <string name = "username"> Username </string>
+             <string name = "email"> E-mail address </string>
+             <string name = "name"> Name </string>
+             <string name = "surname"> Second name </string>
+             <string name = "password"> Password </string>
+             <string name = "confirm_password"> Confirm Password </string>
+             <string name = "create_account"> Send </string>
+
+             <string name = "error_invalid_email_register"> This e-mail address is not valid </string>
+             <string name = "error_invalid_password_register"> The password is too short </string>
+             <string name = "error_incorrect_password_register"> The password is incorrect </string>
+             <string name = "error_field_required_register"> This field is required </string>
+
+</resources>

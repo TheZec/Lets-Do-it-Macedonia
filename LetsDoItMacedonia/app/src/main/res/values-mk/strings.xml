@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ајде Македонија</string>
+
+    <string name="plastik_paper">Пластика, Хартија</string>
+
+    <string name="title_activity_partners">Партнери</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_news">News</string>
+
+    <string name="no_internet">Немате интернет пристап, вклучете ја вашата мрежа</string>
+
+    <string name="successful_log_out">Успепшно одлогирање</string>
+
+    <string name="successful_log_in">Успешно логирање</string>
+
+    <string name="error_try_again">Грешно корисничко име или лозинка, ве молиме обидете се повторно</string>
+
+    <string name="log_in_or_sign_in">Ве молиме најавете се или креирајте нов корисник</string>
+
+    <string name="no_network">Немате интернет пристап, вклучете ја вашата мрежа</string>
+
+    <string name="successful_new_point">Успешно додадовте нова локација</string>
+
+    <string name="check_gps_network">Неуспешен обид. Проверете ја вашата мрежа и гпс навигација</string>
+
+    <string name="field_required">Ова поле е задолжително</string>
+
+    <string name="pick_waste_type">Одберете вид на отпад</string>
+
+    <string name="share">Сподели</string>
+
+    <string name="do_you_want_to_share">Дали сакате да го споделите вашто мапирање?</string>
+
+    <string name="just_maped_try_out"><![CDATA[Штотуку мапирaв нова точка со отпад, обиди се и ти \n https://play.google.com/store/apps/details?id=com.letsdoitmacedonia&hl=en]]></string>
+
+    <string name="invalid_email">Внесовте невалидна адреса</string>
+
+    <string name="password_not_match">Лозинките не се совпаѓаат</string>
+
+    <string name="no_network_turn_on">Немате интернет пристап, вклучете ја вашата мрежа</string>
+
+    <string name="successful_new_user">Успешно креиравте нов корисник, ве молиме логирајте се</string>
+
+    <string name="username_exist">Корисничкото име веќе постои</string>
+
+    <string name="email_exist">Адресата веќе постои</string>
+
+    <string name="volume">Волумен: </string>
+
+    <string name="content">Состав: </string>
+
+    <string name="description">Опис: </string>
+
+    <string name="added_by">Додадено од: </string>
+
+    <string name="minimum_password">Внесете лозинка од минимум 6 карактери</string>
+
+    <string name="activate_gps">За целите на оваа апликација потребно е да ја активирате ГПС навигацијата</string>
+
+    <string name="no">Не</string>
+
+    <string name="construction">Градежен отпад</string>
+
+    <string name="glass">Стаклен отпад</string>
+
+    <string name="mixed">Мешан отпад</string>
+
+    <string name="other">Останат отпад</string>
+
+    <string name="profile">Профил</string>
+
+    <string name="take_photo">Сликај</string>
+
+    <string name="new_location">Нова локација</string>
+
+    <string name="text_tutorial_1">Сакаш да помогнеш за почиста Македонија? Едноставно е</string>
+
+    <string name="text_tutorial_2">Сликни ја локацијата на отпадот</string>
+
+    <string name="text_tutorial_3">Додади ја новата локација</string>
+
+    <string name="text_tutorial_4">И тоа е тоа. Отпадот ќе биде мапиран, а ти ќе помогнеш за полесно отстранување на истиот</string>
+
+    <string name="button_tutorial">Ајде да ја промениме Македонија!</string>
+
+    <string name="drawer_open">Open</string>
+
+    <string name="drawer_close">Close</string>
+
+    <string name="create_team">Создади тим</string>
+
+    <string name="news">Новости</string>
+
+    <string name="about_us">За нас</string>
+
+    <string name="contact">Контакт</string>
+
+    <string name="partners">Партнери</string>
+
+    <string name="title_activity_maps">Map</string>
+
+    <string name="title_activity_about_info">За нас</string>
+
+    <string name="about">За нас</string>
+
+    <string name="about_info">Let’s Do It! World е граѓански инспирирано масовно движење кое започнува во Естонија кога за време на 2008 година за еден еден се собираат 50,000 граѓани и ја ичистија земјата за само пет часа. Сега ова движење има меѓународен карактер, се одржува во 112 држави со преку 13 милиони учесници.
+
+Македонија за прв пат ја реализираше глобалната акција на “Lets do it world” на 6-ти октомври 2012 година со организирање на над 440 отпадни локации во 54 општини, во кои беа вклучени над 55 000 граѓани и отстранети 60 000 м3 отпад. Отпадот беше однесен во Дрисла и општинските депонии, а беа собрани и 20 тони пет амбалажа и над 10 тони хартија кои беа рециклирани од страна на постапувачите. Во акцијата беа вклучени 225 основни и 62 средни училишта со едукативни предавања и работилници од Зелениот Пакет Јуниор, собирање на стара хартија и акции за чистење на училишните дворови и околината.
+
+Со оваа акција, Македонија ја заокружува својата прва успешна година во „Let’s Do It World“ движењето.
+
+Националната акција во 2013-та година се спроведе во 70 општини на вкупно 386 регистрирани локации, при што се собра 19 685 м3 отпад.Покрај општините и нивните комунални претпријатија, во активностите се вклучија и 70 училишта со преку 3.700 ученици, невладини организации, компании, 4 дипломатски претставништва, а вкупна бројка на евидентирани учесници изнесуваше 61 637 граѓани.
+
+Реализацијата на националната акција во 2014-тата покажа слични бојки како претходната година, односно се спроведе во 70 општини, учествуваа речиси 60 000 граѓани, се чистеа 252 отпадни локации и се собра 25 330 м3 отпад.
+
+Нашата цел е да ја исчистиме цела Македонија од нелегално фрлениот отпад и да ја чуваме Македонија чиста. Ние работиме со ентузијазам и ги поддржуваме одржливите принципи за управување на отпадот во Македонија.
+
+Придружите ни се’! Да ја исчистиме Македонија заедно!</string>
+
+    <string name="cancel">Откажи</string>
+
+    <string name="add_point">Додади</string>
+    <string name="yes">Да</string>
+
+
+</resources>

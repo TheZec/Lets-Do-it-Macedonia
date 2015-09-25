@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorAccent">@color/background</item>
+        <item name="android:windowSoftInputMode">adjustPan|adjustResize</item>
+        <item name="windowActionModeOverlay">true</item>
+    </style>
+
+    <style name="TutorialText" parent="Base.TextAppearance.AppCompat.Large">
+        <item name="android:textColor">@color/textTutorial</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+
+</resources>

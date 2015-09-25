@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:padding="@dimen/activity_horizontal_margin">
+
+    <EditText
+        android:id="@+id/edit_text_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/description"
+        android:lines="1"/>
+
+    <EditText
+        android:id="@+id/edit_text_volume"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/volume"
+        android:lines="1"
+        android:inputType="number"/>
+
+    <LinearLayout
+        android:id="@+id/layout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        android:background="?attr/selectableItemBackground">
+
+        <TextView
+            android:id="@+id/composition1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.5"
+            android:text="@string/plastik_paper"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/abc_primary_text_material_light"
+            />
+
+        <CheckBox
+            android:id="@+id/checkbox_composition1"
+            style="@style/AppTheme"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:clickable="false"
+            android:background="@android:color/transparent"
+
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:background="?attr/selectableItemBackground">
+
+        <TextView
+            android:id="@+id/composition2"
+            style="@style/AppTheme"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.5"
+            android:text="@string/construction"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/abc_primary_text_material_light"
+            />
+
+        <CheckBox
+            android:id="@+id/checkbox_composition2"
+            style="@style/AppTheme"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:clickable="false"
+            android:background="@android:color/transparent"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:background="?attr/selectableItemBackground">
+
+        <TextView
+            android:id="@+id/composition3"
+            style="@style/AppTheme"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.5"
+            android:text="@string/glass"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/abc_primary_text_material_light"
+            />
+
+        <CheckBox
+            android:id="@+id/checkbox_composition3"
+            style="@style/AppTheme"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:clickable="false"
+            android:background="@android:color/transparent"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:background="?attr/selectableItemBackground">
+
+        <TextView
+            android:id="@+id/composition4"
+            style="@style/AppTheme"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.5"
+            android:text="@string/mixed"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/abc_primary_text_material_light"
+            />
+
+        <CheckBox
+            android:id="@+id/checkbox_composition4"
+            style="@style/AppTheme"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:clickable="false"
+            android:background="@android:color/transparent"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:background="?attr/selectableItemBackground">
+
+        <TextView
+            android:id="@+id/composition5"
+            style="@style/AppTheme"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.5"
+            android:text="@string/other"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/abc_primary_text_material_light"
+            />
+
+        <CheckBox
+            android:id="@+id/checkbox_composition5"
+            style="@style/AppTheme"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:clickable="false"
+            android:background="@android:color/transparent"
+            />
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/image_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/placeholder"
+       />
+
+
+</LinearLayout>

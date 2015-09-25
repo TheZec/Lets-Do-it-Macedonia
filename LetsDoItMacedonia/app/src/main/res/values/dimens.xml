@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="header_height">192dp</dimen>
+    <dimen name="button_tutorial">68dp</dimen>
+    <dimen name="tutorial_logo">-30dp</dimen>
+    <dimen name="padding_normal">8dp</dimen>
+    <dimen name="padding_text_tutorial">38dp</dimen>
+    <dimen name="margin_top_text_tutorial">18dp</dimen>
+</resources>

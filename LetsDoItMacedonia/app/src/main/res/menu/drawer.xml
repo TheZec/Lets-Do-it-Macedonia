@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".MainActivity">
+
+    <group
+        android:id="@+id/group_1"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/navigation_item_2"
+            android:icon="@drawable/ic_new_releases"
+            android:title="@string/news"/>
+
+        <item
+            android:id="@+id/navigation_item_3"
+            android:icon="@drawable/ic_about"
+            android:title="@string/about_us"/>
+
+        <item
+            android:id="@+id/navigation_item_5"
+            android:icon="@drawable/ic_group"
+            android:title="@string/partners"/>
+
+    </group>
+
+</menu>
+

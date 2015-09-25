@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/material_deep_teal_500">
+
+
+    <ImageView
+        android:id="@+id/image_background"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="@dimen/padding_text_tutorial"
+        />
+
+    <TextView
+        android:id="@+id/text_tutorial_welcome_en"
+        style="@style/TutorialText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true"
+        android:layout_centerVertical="true"
+        android:text="Supported by the British Embassy Skopje"
+        android:layout_marginTop="@dimen/padding_normal"/>
+
+    <TextView
+        android:id="@+id/text_tutorial_welcome_mk"
+        style="@style/TutorialText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true"
+        android:layout_centerVertical="true"
+        android:text="Поддржано од Британската амбасада во Скопје "
+        android:layout_below="@+id/text_tutorial_welcome_en"
+        android:layout_marginTop="@dimen/padding_normal"/>
+
+    <TextView
+        android:id="@+id/text_tutorial_welcome_sh"
+        style="@style/TutorialText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true"
+        android:layout_centerVertical="true"
+        android:text="E mbështetur nga Ambasada Britanike në Shkup"
+        android:layout_below="@+id/text_tutorial_welcome_mk"
+        android:layout_marginTop="@dimen/padding_normal"/>
+
+    <TextView
+        android:id="@+id/text_tutorial_first"
+        style="@style/TutorialText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true"
+        android:layout_centerVertical="true"
+        android:text="@string/text_tutorial_1"/>
+
+    <TextView
+        android:id="@+id/text_tutorial_second"
+        style="@style/TutorialText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true"
+        android:layout_centerVertical="true"
+        android:text="@string/text_tutorial_2"/>
+
+    <TextView
+        android:id="@+id/text_tutorial_third"
+        style="@style/TutorialText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true"
+        android:layout_centerVertical="true"
+        android:text="@string/text_tutorial_3"/>
+
+    <TextView
+        android:id="@+id/text_tutorial_fourth"
+        style="@style/TutorialText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true"
+        android:layout_centerVertical="true"
+        android:text="@string/text_tutorial_4"/>
+
+    <TextView
+        style="@style/Base.Widget.AppCompat.Button.Borderless.Colored"
+        android:id="@+id/button_tutorial"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:background="@drawable/button_shape"
+        android:text="@string/button_tutorial"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"/>
+
+</RelativeLayout>

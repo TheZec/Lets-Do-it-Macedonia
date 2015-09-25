@@ -1,0 +1,25 @@
+<LinearLayout
+    android:id="@+id/addItemLayout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.uidesgin.AddItem"
+    >
+
+
+    <TextView
+        android:id="@+id/about_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/about_info"
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/abc_secondary_text_material_light"
+        style="@style/AppTheme"
+        />
+
+
+
+</LinearLayout>
